@@ -1,0 +1,101 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f6f6f6;
+    color: #222;
+}
+
+/* NAV */
+.navbar {
+    background-color: #ffffff;
+    padding: 15px 30px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: sticky;
+    top: 0;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+}
+
+.logo {
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.nav-links {
+    list-style: none;
+    display: flex;
+    gap: 20px;
+}
+
+.nav-links a {
+    text-decoration: none;
+    color: #333;
+    font-weight: 600;
+    padding: 6px 10px;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+.nav-links a:hover {
+    background-color: #0099cc;
+    color: white;
+    border-radius: 4px;
+}
+
+/* BANNER */
+.banner {
+    height: 70vh;
+    background-image: url("https://images.unsplash.com/photo-1507525428034-b723cf961d3e");
+    background-size: cover;
+    background-position: center;
+    position: relative;
+}
+
+.banner-text {
+    position: absolute;
+    bottom: 30px;
+    left: 30px;
+    color: white;
+    background-color: rgba(0,0,0,0.45);
+    padding: 20px;
+    border-radius: 4px;
+}
+
+.banner-text h2 {
+    font-size: 36px;
+}
+
+.banner-text p {
+    font-size: 18px;
+}
+
+/* SEÇÕES */
+.section {
+    padding: 60px 25px;
+    max-width: 900px;
+    margin: auto;
+}
+
+.section h2 {
+    font-size: 28px;
+    margin-bottom: 15px;
+    color: #0099cc;
+}
+
+.section p {
+    line-height: 1.6;
+}
+
+/* FOOTER */
+footer {
+    background-color: #eee;
+    text-align: center;
+    padding: 15px;
+    margin-top: 30px;
+}
