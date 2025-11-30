@@ -2,10 +2,10 @@
 
 ## 📌 Sobre o Projeto
 
-Este é um projeto desenvolvido como parte da certificação, cujo objetivo
-é criar uma landing page simples para uma agência de viagens.\
-O foco é demonstrar domínio de HTML e CSS, criando uma página
-estruturada, semântica e responsiva com seções internas navegáveis.
+Este projeto foi desenvolvido como parte da certificação do curso DevStart, com o objetivo de criar uma landing page simples para uma agência de viagens.
+O foco é demonstrar domínio de HTML e CSS, criando uma página estruturada, semântica e organizada, com navegação interna entre seções.
+
+-[Visite o projeto online](https://adrianocosta01.github.io/viagens--landing-page/)
 
 ## 🎯 Objetivos
 
@@ -64,15 +64,6 @@ git clone https://github.com/seuusuario/viagens--landing-page
 
 -   **HTML5**
 -   **CSS3**
-
-------------------------------------------------------------------------
-
-## 📝 Observações
-
-Este projeto é simples por natureza, focado em estrutura, navegação e
-estilo básico.\
-É ideal para iniciantes e perfeito como parte de um portfólio em
-crescimento.
 
 ------------------------------------------------------------------------
 
