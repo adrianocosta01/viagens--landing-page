@@ -44,11 +44,7 @@ JavaScript é opcional, não obrigatório.
 
 ## 🚀 Como Executar
 
-1.  Baixe ou clone o repositório:
-
-``` bash
-git clone https://github.com/seuusuario/viagens--landing-page
-```
+1.  Baixe ou clone o repositório
 
 2.  Abra o arquivo **index.html** no navegador.
 
