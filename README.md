@@ -19,8 +19,6 @@ texto sobreposto. - Navegação interna via \*\*
 Conselhos. - Efeitos de **hover** em botões, links ou elementos
 interativos.
 
-JavaScript é opcional, não obrigatório.
-
 ------------------------------------------------------------------------
 
 ## 🧱 Estrutura do Projeto
